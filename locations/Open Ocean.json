@@ -500,8 +500,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 599,
-                        "y": 344
+                        "x": 616,
+                        "y": 335
                     }
                 ]
             },
@@ -522,8 +522,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 616,
-                        "y": 335
+                        "x": 599,
+                        "y": 344
                     }
                 ]
             },
@@ -676,8 +676,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 674,
-                        "y": 856
+                        "x": 681,
+                        "y": 840
                     }
                 ]
             },
@@ -698,8 +698,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 681,
-                        "y": 840
+                        "x": 674,
+                        "y": 856
                     }
                 ]
             },
