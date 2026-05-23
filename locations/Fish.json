@@ -219,7 +219,7 @@
                 "name": "Anvilfish",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase1", "^$AberrationsRandomized"
+                    "$IronRigPhase1, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedCoastalRods"
@@ -509,7 +509,7 @@
                 "name": "Astral Icefish",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC", "^$AberrationsRandomized"
+                    "$PaleReachDLC, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$IceRods",
@@ -555,7 +555,7 @@
                 "name": "Axial Matron",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase1", "^$AberrationsRandomized"
+                    "$IronRigPhase1, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedCoastalRods"
@@ -787,7 +787,7 @@
                 "name": "Bifurcated Gar",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase2", "^$AberrationsRandomized"
+                    "$IronRigPhase2, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedAbyssalOrHadalRods"
@@ -1418,7 +1418,7 @@
                 "name": "Boreal Shell",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase4", "^$AberrationsRandomized"
+                    "$IronRigPhase4, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedMangroveRods"
@@ -1502,7 +1502,7 @@
                 "name": "Broken Arapaima",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase4", "^$AberrationsRandomized"
+                    "$IronRigPhase4, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedMangroveRods"
@@ -1625,7 +1625,7 @@
                 "name": "Bubbling Char",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC", "^$AberrationsRandomized"
+                    "$PaleReachDLC, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     " "
@@ -1647,7 +1647,7 @@
                 "name": "Bulbous Toothfish",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC", "^$AberrationsRandomized"
+                    "$PaleReachDLC, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$IceRods"
@@ -1988,7 +1988,7 @@
                 "name": "Clutching Nautilus",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase2", "^$AberrationsRandomized"
+                    "$IronRigPhase2, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedOceanicRods"
@@ -2364,7 +2364,7 @@
                 "name": "Craterous Seer",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC", "^$AberrationsRandomized"
+                    "$PaleReachDLC, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$IceNets"
@@ -2386,7 +2386,7 @@
                 "name": "Crawling Instar",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase4", "^$AberrationsRandomized"
+                    "$IronRigPhase4, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedShallowRods"
@@ -2614,7 +2614,7 @@
                 "name": "Cystic Trilobite",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase2", "^$AberrationsRandomized"
+                    "$IronRigPhase2, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     " "
@@ -2772,7 +2772,7 @@
                 "name": "Drifting Chrysalis",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase3", "^$AberrationsRandomized"
+                    "$IronRigPhase3, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedAbyssalOrHadalRods"
@@ -3018,7 +3018,7 @@
                 "name": "Excoriated Fiend",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase5", "^$AberrationsRandomized"
+                    "$IronRigPhase5, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedVolcanicRods"
@@ -3040,7 +3040,7 @@
                 "name": "Fallen Stars",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC", "^$AberrationsRandomized"
+                    "$PaleReachDLC, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     " "
@@ -3170,7 +3170,7 @@
                 "name": "Feral Lizardfish",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC", "^$AberrationsRandomized"
+                    "$PaleReachDLC, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$IceRods",
@@ -3311,7 +3311,7 @@
                 "name": "Fractalline Icefish",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC", "^$AberrationsRandomized"
+                    "$PaleReachDLC, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$IceRods",
@@ -4230,7 +4230,7 @@
                 "name": "Grisly Shark",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC", "^$AberrationsRandomized"
+                    "$PaleReachDLC, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$IceRods"
@@ -4414,7 +4414,7 @@
                 "name": "Hinged Wolffish",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC", "^$AberrationsRandomized"
+                    "$PaleReachDLC, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$IceRods"
@@ -4698,7 +4698,7 @@
                 "name": "Inverted Husk",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase1", "^$AberrationsRandomized"
+                    "$IronRigPhase1, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     " "
@@ -4720,7 +4720,7 @@
                 "name": "Ivory Impaler",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase1", "^$AberrationsRandomized"
+                    "$IronRigPhase1, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedOceanicRods"
@@ -4823,7 +4823,7 @@
                 "name": "Kings Wreath",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC", "^$AberrationsRandomized"
+                    "$PaleReachDLC, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     " "
@@ -5352,7 +5352,7 @@
                 "name": "Mimic Slug",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase3", "^$AberrationsRandomized"
+                    "$IronRigPhase3, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     " "
@@ -5994,7 +5994,7 @@
                 "name": "Pale Grasper",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC", "^$AberrationsRandomized"
+                    "$PaleReachDLC, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$IceNets"
@@ -6133,7 +6133,7 @@
                 "name": "Plated Barbjaw",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase5", "^$AberrationsRandomized"
+                    "$IronRigPhase5, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedShallowRods"
@@ -6155,7 +6155,7 @@
                 "name": "Plated Osteostracan",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase1", "^$AberrationsRandomized"
+                    "$IronRigPhase1, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedShallowRods"
@@ -6177,7 +6177,7 @@
                 "name": "Primordial Shadow",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase4", "^$AberrationsRandomized"
+                    "$IronRigPhase4, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedMangroveRods"
@@ -6652,7 +6652,7 @@
                 "name": "Sanguine Shark",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase3", "^$AberrationsRandomized"
+                    "$IronRigPhase3, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedOceanicRods"
@@ -7098,7 +7098,7 @@
                 "name": "Silvering Lancetfish",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase2", "^$AberrationsRandomized"
+                    "$IronRigPhase2, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedCoastalRods"
@@ -7183,7 +7183,7 @@
                 "name": "Sleepers Torment",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC", "^$AberrationsRandomized"
+                    "$PaleReachDLC, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$IceRods, ^$HasIceBreaker"
@@ -7542,7 +7542,7 @@
                 "name": "Stalking Spiderfish",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase3", "^$AberrationsRandomized"
+                    "$IronRigPhase3, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedAbyssalOrHadalRods"
@@ -7935,7 +7935,7 @@
                 "name": "Thawed Icefish",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC", "^$AberrationsRandomized"
+                    "$PaleReachDLC, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$IceRods",
@@ -8392,7 +8392,7 @@
                 "name": "Untouchable Wyrmfish",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase5", "^$AberrationsRandomized"
+                    "$IronRigPhase5, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedAbyssalOrHadalRods"
@@ -8414,7 +8414,7 @@
                 "name": "Unveiled Vetulicolia",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase5", "^$AberrationsRandomized"
+                    "$IronRigPhase5, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedVolcanicRods"
@@ -8436,7 +8436,7 @@
                 "name": "Vagrant Sollasina",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase2", "^$AberrationsRandomized"
+                    "$IronRigPhase2, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedShallowRods"
@@ -8899,7 +8899,7 @@
                 "name": "Wretched Nipper",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase4", "^$AberrationsRandomized"
+                    "$IronRigPhase4, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     " "
@@ -8921,7 +8921,7 @@
                 "name": "Xeno Xeno",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase3", "^$AberrationsRandomized"
+                    "$IronRigPhase3, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedOceanicRods"
