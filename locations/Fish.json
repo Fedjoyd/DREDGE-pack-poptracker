@@ -97,7 +97,7 @@
                     "^$AberrationsRandomized"
                 ],
                 "access_rules": [
-                    "^$OceanicNets"
+                    "^$OceanicNetsOnly"
                 ],
                 "sections": [
                     {
@@ -116,7 +116,7 @@
                 "name": "Anchovy",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "^$OceanicNets"
+                    "^$OceanicNetsOnly"
                 ],
                 "sections": [
                     {
@@ -532,7 +532,7 @@
                 "name": "Aurora Jellyfish",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "^$CoastalNets"
+                    "^$CoastalNetsOnly"
                 ],
                 "sections": [
                     {
@@ -2133,7 +2133,7 @@
                     "$PaleReachDLC"
                 ],
                 "access_rules": [
-                    "^$IceNets"
+                    "^$IceNetsOnly"
                 ],
                 "sections": [
                     {
@@ -2367,7 +2367,7 @@
                     "$PaleReachDLC, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
-                    "^$IceNets"
+                    "^$IceNetsOnly"
                 ],
                 "sections": [
                     {
@@ -2992,11 +2992,8 @@
             {
                 "name": "Erupting Scorpion",
                 "overlay_background": "#000000",
-                "visibility_rules": [
-                    "^$AberrationsRandomized"
-                ],
                 "visibility_rules":[
-                    "$IronRigPhase5"
+                    "$IronRigPhase5, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     " "
@@ -5997,7 +5994,7 @@
                     "$PaleReachDLC, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
-                    "^$IceNets"
+                    "^$IceNetsOnly"
                 ],
                 "sections": [
                     {
@@ -6092,7 +6089,7 @@
                     "^$AberrationsRandomized"
                 ],
                 "access_rules": [
-                    "^$CoastalNets"
+                    "^$CoastalNetsOnly"
                 ],
                 "sections": [
                     {
@@ -7567,7 +7564,7 @@
                     "$PaleReachDLC"
                 ],
                 "access_rules": [
-                    "^$IceNets"
+                    "^$IceNetsOnly"
                 ],
                 "sections": [
                     {

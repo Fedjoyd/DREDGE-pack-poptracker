@@ -35,7 +35,8 @@
 				        "type": "itemgrid",
 				        "item_size": "140,70",
 				        "rows": [
-                            [ "aberrations" ]
+                            [ "aberrations" ],
+                            [ "useNets" ] 
                         ]
                     }
                 ]

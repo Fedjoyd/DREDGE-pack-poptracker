@@ -17,7 +17,12 @@ function InfusedCoastalRods()
 end
 
 -- ^$CoastalNets
-function CoastalNets()
+--function CoastalNets()
+--    return ALL(CoastalNetsOnly(), "useNets")
+--end
+
+-- ^$CoastalNetsOnly
+function CoastalNetsOnly()
     return ANY("basictrawlnet", "improvedtrawlnet", "improvedtrawlnetresearched", "temperedmeshnet", "largetrawlnet", "largetrawlnetresearched", "heavy-dutytrawlnet", "radianttrawlnet")
 end
 
@@ -36,6 +41,11 @@ end
 
 -- ^$ShallowNets
 function ShallowNets()
+    return ALL(ShallowNetsOnly(), "useNets")
+end
+
+-- ^$ShallowNetsOnly
+function ShallowNetsOnly()
     return ANY("basictrawlnet", "SiltfilteringTrawlnet", "largetrawlnet", "largetrawlnetresearched", "radianttrawlnet")
 end
 
@@ -54,6 +64,11 @@ end
 
 -- ^$OceanicNets
 function OceanicNets()
+    return ALL(OceanicNetsOnly(), "useNets")
+end
+
+-- ^$OceanicNetsOnly
+function OceanicNetsOnly()
     return ANY("heavy-dutytrawlnet", "radianttrawlnet")
 end
 
@@ -108,6 +123,11 @@ end
 
 -- ^$MangroveNets
 function MangroveNets()
+    return ALL("SiltfilteringTrawlnet", "useNets")
+end
+
+-- ^$MangroveNetsOnly
+function MangroveNetsOnly()
     return HAS("SiltfilteringTrawlnet")
 end
 
@@ -126,6 +146,11 @@ end
 
 -- ^$VolcanicNets
 function VolcanicNets()
+    return ALL("temperedmeshnet", "useNets")
+end
+
+-- ^$VolcanicNetsOnly
+function VolcanicNetsOnly()
     return HAS("temperedmeshnet")
 end
 
@@ -144,6 +169,11 @@ end
 
 -- ^$IceNets
 function IceNets()
+    return ALL(IceNetsOnly(), "useNets")
+end
+
+-- ^$IceNetsOnly
+function IceNetsOnly()
     return ANY("brittletrawlnet", "radianttrawlnet")
 end
 

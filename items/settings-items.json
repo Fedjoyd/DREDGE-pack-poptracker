@@ -16,10 +16,16 @@
     {
         "name": "aberrations",
         "type": "toggle",
-        "loop": true, 
         "img": "images/settings/aberrations.png",
         "initial_active_state": true,
         "codes": "aberrations"
+    },
+    {
+        "name": "useNets",
+        "type": "toggle",
+        "img": "images/settings/nets.png",
+        "initial_active_state": true,
+        "codes": "useNets"
     },
     {
         "name": "ironrigDLCprogression",
