@@ -257,7 +257,7 @@
                         "map": "Overworld",
                         "x": 706,
                         "y": 506,
-                        "size": 40,
+                        "size": 50,
                         "shape": "trapezoid"
                     }
                 ]
@@ -523,7 +523,7 @@
                         "map": "Overworld",
                         "x": 944,
                         "y": 777,
-                        "size": 40,
+                        "size": 50,
                         "shape": "trapezoid"
                     }
                 ]
@@ -809,7 +809,7 @@
                         "map": "Overworld",
                         "x": 399,
                         "y": 789,
-                        "size": 40,
+                        "size": 50,
                         "shape": "trapezoid"
                     }
                 ]
@@ -1015,7 +1015,7 @@
                         "map": "Overworld",
                         "x": 394,
                         "y": 197,
-                        "size": 40,
+                        "size": 50,
                         "shape": "trapezoid"
                     }
                 ]
@@ -1269,7 +1269,7 @@
                         "map": "Overworld",
                         "x": 978,
                         "y": 203,
-                        "size": 40,
+                        "size": 50,
                         "shape": "trapezoid"
                     }
                 ]
@@ -1466,7 +1466,7 @@
                         "map": "Overworld",
                         "x": 604,
                         "y": 1158,
-                        "size": 40,
+                        "size": 50,
                         "shape": "trapezoid"
                     }
                 ]
@@ -1528,7 +1528,7 @@
                         "map": "Overworld",
                         "x": 1020,
                         "y": 1300,
-                        "size": 40,
+                        "size": 70,
                         "shape": "diamond"
                     }
                 ]
@@ -1568,7 +1568,7 @@
                         "map": "Overworld",
                         "x": 708,
                         "y": 585,
-                        "size": 20
+                        "size": 30
                     }
                 ]
             },
