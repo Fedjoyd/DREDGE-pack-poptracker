@@ -1,17 +1,28 @@
 {
     "tracker_broadcast": {
         "type": "array",
-        "orientation": "vertical",
+        "orientation": "horizontal",
         "margin": "0,0",
         "content": [
             {
                 "type": "array",
-                "orientation": "vertical",
+                "orientation": "horizontal",
                 "margin": "0,0",
                 "content": [
                     {
                         "type": "layout",
-                        "key": "shared_item_A_grid_vertical"
+                        "key": "shared_item_A_grid_horizontal"
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "shared_item_B_grid_horizontal"
                     }
                 ]
             }
