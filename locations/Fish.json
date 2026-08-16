@@ -2992,11 +2992,8 @@
             {
                 "name": "Erupting Scorpion",
                 "overlay_background": "#000000",
-                "visibility_rules": [
-                    "^$AberrationsRandomized"
-                ],
                 "visibility_rules":[
-                    "$IronRigPhase5"
+                    "$IronRigPhase5, ^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     " "
