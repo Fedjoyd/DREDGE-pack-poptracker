@@ -1,0 +1,39 @@
+{
+	"versions": [
+		{
+			"package_version": "1.0.6",
+			"download_url": "https://github.com/Fedjoyd/DREDGE-pack-poptracker/releases/download/v1.0.6/DREDGE-Pack.zip",
+			"sha256": "03701a9c3c8abf8d2aa87afe0b073b5b1ec297f771bc97b53fb9c76a84ceb4ce",
+			"changelog": [
+				"fix 'erupting scorpion' visibility",
+				"add 'nets' settings to toggle access rule effect (setting active : If you have a net capable of catching this fish, the indicator will turn green; setting inactive : The indicator will only turn green if you have the right rod)",
+				"modify overworld dredge icon to be bigger"
+			]
+		},
+		{
+			"package_version": "1.0.4",
+			"download_url": "https://github.com/Fedjoyd/DREDGE-pack-poptracker/releases/download/v1.0.4/DREDGE-Pack.zip",
+			"sha256": "71df5bea37e3d3de6c19623f84a2ce37003412f31db1e187305c12849cb34826",
+			"changelog": [
+				"Add a button in the settings, for hiddin aberration (thanks @Galass94 )",
+				"Fix some dredge location missplacement"
+			]
+		},
+		{
+			"package_version": "1.0.0",
+			"download_url": "https://github.com/Fedjoyd/DREDGE-pack-poptracker/releases/download/v1.0.0/DREDGE-Pack.zip",
+			"sha256": "4c09aac860d8ca190fcf11bc0449e7bec407abee1cbabfa7b790aa6688c7428d",
+			"changelog": [
+				"Official release with clean file !!"
+			]
+		},
+		{
+			"package_version": "0.5.1",
+			"download_url": "https://github.com/Fedjoyd/DREDGE-pack-poptracker/releases/download/v0.5.1/DREDGE-Pack.zip",
+			"sha256": "3a841006dafaa5c2ff9bc023fec81a8caed06dffa2e843f8339285564b5dee3d",
+			"changelog": [
+				"This an unclean version with not used file"
+			]
+		}
+	]
+}

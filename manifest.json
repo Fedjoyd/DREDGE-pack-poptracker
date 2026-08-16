@@ -1,7 +1,7 @@
 {
     "name": "DREDGE Archipelago",
     "game_name": "DREDGE",
-    "package_version": "1.0.6",
+    "package_version": "1.0.7",
     "package_uid": "dredge_ap",
     "author": "Fedjoyd, Galass94",
     "variants": {
@@ -12,5 +12,7 @@
             ]
         }
     },
-    "min_poptracker_version": "0.31.0"
+    "versions_url": "https://raw.githubusercontent.com/Fedjoyd/DREDGE-pack-poptracker/master/versions.json",
+    "min_poptracker_version": "0.31.0",
+    "target_poptracker_version": "0.35.0"
 }
