@@ -3,7 +3,7 @@
 		{
 			"package_version": "1.0.6",
 			"download_url": "https://github.com/Fedjoyd/DREDGE-pack-poptracker/releases/download/v1.0.6/DREDGE-Pack.zip",
-			"sha256": "03701a9c3c8abf8d2aa87afe0b073b5b1ec297f771bc97b53fb9c76a84ceb4ce",
+			"sha256": "a2296affd697563fa1e1dcc88f6a2c229fbdd9304ee26254d41afeb839e6a90d",
 			"changelog": [
 				"fix 'erupting scorpion' visibility",
 				"add 'nets' settings to toggle access rule effect (setting active : If you have a net capable of catching this fish, the indicator will turn green; setting inactive : The indicator will only turn green if you have the right rod)",
